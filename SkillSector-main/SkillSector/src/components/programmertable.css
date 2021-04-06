@@ -1,0 +1,31 @@
+.tbody .tr .td {  white-space: nowrap; }
+
+.table td { padding: 5 !important; }
+
+.table {
+    border-collapse: collapse;
+    font-size: 15px;
+}
+tbody tr td { max-width: 115px; }
+
+.table-responsive { overflow-x: visible; }
+
+.table thead th {
+    vertical-align: middle;
+    border-bottom: 2px solid #dee2e6;
+}
+label.user.form-label {
+    padding-left: 6px !important;
+    font-family: arial;
+    font-size: 20px;
+    margin-left: 8px;
+}
+input.form-control.user-search { border-radius: 3.25rem;  margin-left: 8px; width: 98%; }
+
+button.btn.btn-primary.user-button { border-radius: 50px; }
+
+span.badge.badge-secondary.user-round{
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 12px;
+}

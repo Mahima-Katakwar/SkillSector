@@ -1,0 +1,50 @@
+body{
+    padding: 50px 0;
+}
+.tbody .tr .td .user-table{ 
+white-space: normal;
+}
+p.user-table {
+    white-space: break-spaces;
+}
+.badge {
+    display: table-cell;
+    padding: 0.25em 1.5em;
+    font-size: 81%;
+    font-weight: 700;
+    line-height: 2;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 1.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.user-top {
+    padding-top: 2px;
+}
+h5.mb-3 {
+    font-size: 25px;
+}
+.circular--square {
+    border-radius: 50% !important;
+}
+.circular--square {
+border-radius: 50% ;
+}
+.form-control {
+   margin-left: 20px; 
+}
+.userfile {
+    margin-left: 25px; 
+}
+input.btn.btn-primary {
+    border-radius: 30px;
+    margin-left: 20px;
+}
+label.col-lg-3.col-form-label.form-control-label.user-label {
+    padding-left: 90px;
+}
+/* .imgpri{
+width: 150px;
+height: 150px;
+} */
